@@ -1,0 +1,6 @@
+*.o
+*.obj
+Calc.exe
+Calc
+
+.sconsign.dblite
